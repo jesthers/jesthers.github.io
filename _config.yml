@@ -1,8 +1,7 @@
 # Site Settings
 name: Jeflix
 title: Jeflix
-description: Jeflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: Jeflix는 넷플릭스를 좋아하는 지혜가 만든 블로그입니다.
 tags:
   - blog
   - template
@@ -19,8 +18,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: jhesther1204@gmail.com
+disqus_username: jesther
 
 
 # Social Media Settings
