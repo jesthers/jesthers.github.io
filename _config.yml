@@ -3,11 +3,9 @@ name: Jeflix
 title: Jeflix
 description: Jeflix는 넷플릭스를 좋아하는 지혜가 만든 블로그입니다.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - 전시
+  - 공연
+  - 영화
 show_hero: true
 menu:
   - title: Home
@@ -16,10 +14,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 email: jhesther1204@gmail.com
-disqus_username: jesther
+disqus_username: jesthers.github.io
 
 
 # Social Media Settings
