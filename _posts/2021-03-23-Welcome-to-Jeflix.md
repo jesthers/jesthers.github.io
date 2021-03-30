@@ -6,7 +6,7 @@ subtitle: 'I really hope this gonna be work this time'
 description: >-
   Please let me sleep.. I cannot awake until now.. I have to go to work tomorrow !! But I didn't have finished my HW. It's so annoying.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://user-images.githubusercontent.com/81091471/112833789-30ba9c00-90d2-11eb-87ce-6186020edc9d.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
